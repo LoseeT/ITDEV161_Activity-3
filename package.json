@@ -1,6 +1,6 @@
 {
     "name": "itdev161-assignment-2",
-    "version": "1.1.0",
+    "version": "1.0.0",
     "description": "itdev161-assignment-2",
     "main": "index.js",
     "type": "module",  
@@ -19,6 +19,6 @@
     },
     "devDependencies": {
       "concurrently": "^9.0.0",
-      "nodemon": "^3.2.8"
+      "nodemon": "^3.1.4"
     }
   }

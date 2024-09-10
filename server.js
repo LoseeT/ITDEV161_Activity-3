@@ -39,7 +39,6 @@ app.post('/api/users',
     } else{
       return res.send(req.body);
     } 
-  }
-);
+  });
 
-app.listen(3000, () => console.log('Express server running on port 3000'));
+  app.listen(3000, () => console.log('Express server running on port 3000'));
